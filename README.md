@@ -1,4 +1,4 @@
-# Lk-objekte-klassen
+# LK-objekte-klassen
 
 The "lk-objekte-klassen" project is a project designed to test and evaluate your comprehension of objects and classes in Java programming. 
 It presents a series of questions and exercises that assess your ability to create and manipulate objects, define classes, and implement inheritance and polymorphism concepts. 
